@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "By Kygekraqmak - Adds new commands to Minecraft Vanilla",
+        "name": "CommandsPlus v1.0.0",
+        "uuid": "01a38290-be92-44f7-a7e7-44257bf31541",
+        "version": [1, 16, 20],
+        "min_engine_version": [1, 16, 20]
+    },
+    "modules": [
+        {
+            "description": "By Kygekraqmak - Adds new commands to Minecraft Vanilla",
+            "type": "data",
+            "uuid": "8d113823-c36a-4544-b05b-bc582ee5b155",
+            "version": [1, 16, 20]
+        }
+    ]
+}
